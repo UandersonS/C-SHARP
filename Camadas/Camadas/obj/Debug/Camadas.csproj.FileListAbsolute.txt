@@ -1,0 +1,12 @@
+c:\users\mac\documents\visual studio 2012\Projects\Camadas\Camadas\bin\Camadas.dll
+c:\users\mac\documents\visual studio 2012\Projects\Camadas\Camadas\bin\Camadas.pdb
+c:\users\mac\documents\visual studio 2012\Projects\Camadas\Camadas\obj\Debug\Camadas.csprojResolveAssemblyReference.cache
+c:\users\mac\documents\visual studio 2012\Projects\Camadas\Camadas\obj\Debug\Camadas.dll
+c:\users\mac\documents\visual studio 2012\Projects\Camadas\Camadas\obj\Debug\Camadas.pdb
+C:\Users\Uanderson\Desktop\Camadas\Camadas\bin\Camadas.dll.config
+C:\Users\Uanderson\Desktop\Camadas\Camadas\bin\Camadas.dll
+C:\Users\Uanderson\Desktop\Camadas\Camadas\bin\Camadas.pdb
+C:\Users\Uanderson\Desktop\Camadas\Camadas\obj\Debug\Camadas.csprojAssemblyReference.cache
+C:\Users\Uanderson\Desktop\Camadas\Camadas\obj\Debug\Camadas.csproj.CoreCompileInputs.cache
+C:\Users\Uanderson\Desktop\Camadas\Camadas\obj\Debug\Camadas.dll
+C:\Users\Uanderson\Desktop\Camadas\Camadas\obj\Debug\Camadas.pdb
