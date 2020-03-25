@@ -1,0 +1,13 @@
+C:\Users\Uanderson\Desktop\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+C:\Users\Uanderson\Desktop\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+C:\Users\Uanderson\Desktop\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+C:\Users\Uanderson\Desktop\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+C:\Users\Uanderson\Desktop\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+C:\Users\Uanderson\Desktop\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache
+C:\Users\Uanderson\Desktop\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
