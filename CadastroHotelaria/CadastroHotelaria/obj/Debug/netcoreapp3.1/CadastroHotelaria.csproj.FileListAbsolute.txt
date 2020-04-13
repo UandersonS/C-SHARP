@@ -1,0 +1,12 @@
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\bin\Debug\netcoreapp3.1\CadastroHotelaria.exe
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\bin\Debug\netcoreapp3.1\CadastroHotelaria.deps.json
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\bin\Debug\netcoreapp3.1\CadastroHotelaria.runtimeconfig.json
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\bin\Debug\netcoreapp3.1\CadastroHotelaria.runtimeconfig.dev.json
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\bin\Debug\netcoreapp3.1\CadastroHotelaria.dll
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\bin\Debug\netcoreapp3.1\CadastroHotelaria.pdb
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\obj\Debug\netcoreapp3.1\CadastroHotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\obj\Debug\netcoreapp3.1\CadastroHotelaria.AssemblyInfoInputs.cache
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\obj\Debug\netcoreapp3.1\CadastroHotelaria.AssemblyInfo.cs
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\obj\Debug\netcoreapp3.1\CadastroHotelaria.dll
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\obj\Debug\netcoreapp3.1\CadastroHotelaria.pdb
+C:\Users\Uanderson\Desktop\CadastroHotelaria\CadastroHotelaria\obj\Debug\netcoreapp3.1\CadastroHotelaria.genruntimeconfig.cache
