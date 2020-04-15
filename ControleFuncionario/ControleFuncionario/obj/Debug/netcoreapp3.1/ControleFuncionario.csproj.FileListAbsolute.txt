@@ -1,0 +1,13 @@
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.csprojAssemblyReference.cache
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.AssemblyInfoInputs.cache
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.AssemblyInfo.cs
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\bin\Debug\netcoreapp3.1\ControleFuncionario.exe
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\bin\Debug\netcoreapp3.1\ControleFuncionario.deps.json
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\bin\Debug\netcoreapp3.1\ControleFuncionario.runtimeconfig.json
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\bin\Debug\netcoreapp3.1\ControleFuncionario.runtimeconfig.dev.json
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\bin\Debug\netcoreapp3.1\ControleFuncionario.dll
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\bin\Debug\netcoreapp3.1\ControleFuncionario.pdb
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.dll
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.pdb
+C:\Users\Uanderson\Desktop\ControleFuncionario\ControleFuncionario\obj\Debug\netcoreapp3.1\ControleFuncionario.genruntimeconfig.cache
