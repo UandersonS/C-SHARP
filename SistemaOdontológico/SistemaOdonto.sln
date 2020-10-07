@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaOdonto", "SistemaOdontológico\SistemaOdonto.csproj", "{9C32BE69-699B-40A6-BE16-8061C95C5C85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{8A7B3AE1-59B3-4E65-9895-CA32259BD023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{02A23429-2D68-4032-9EB0-5BB9B810296B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{47539A96-7B0C-4612-A992-76C4C49B7341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{C6B08F03-E751-472B-8536-4A45EF79B87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{506AC1FE-AA28-4D2F-A47C-DD90512DD9E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{49401E40-DD4F-4BCE-AE08-2D8D0674986B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C32BE69-699B-40A6-BE16-8061C95C5C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C32BE69-699B-40A6-BE16-8061C95C5C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C32BE69-699B-40A6-BE16-8061C95C5C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C32BE69-699B-40A6-BE16-8061C95C5C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506AC1FE-AA28-4D2F-A47C-DD90512DD9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506AC1FE-AA28-4D2F-A47C-DD90512DD9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506AC1FE-AA28-4D2F-A47C-DD90512DD9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506AC1FE-AA28-4D2F-A47C-DD90512DD9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49401E40-DD4F-4BCE-AE08-2D8D0674986B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49401E40-DD4F-4BCE-AE08-2D8D0674986B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49401E40-DD4F-4BCE-AE08-2D8D0674986B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49401E40-DD4F-4BCE-AE08-2D8D0674986B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C32BE69-699B-40A6-BE16-8061C95C5C85} = {8A7B3AE1-59B3-4E65-9895-CA32259BD023}
+		{506AC1FE-AA28-4D2F-A47C-DD90512DD9E4} = {47539A96-7B0C-4612-A992-76C4C49B7341}
+		{49401E40-DD4F-4BCE-AE08-2D8D0674986B} = {C6B08F03-E751-472B-8536-4A45EF79B87B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9188CE6A-7356-4C61-BA85-87DF5CFB3588}
+	EndGlobalSection
+EndGlobal
