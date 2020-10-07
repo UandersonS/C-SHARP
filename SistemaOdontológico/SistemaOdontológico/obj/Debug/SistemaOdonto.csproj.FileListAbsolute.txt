@@ -1,0 +1,10 @@
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\bin\Debug\SistemaOdontológico.exe.config
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\bin\Debug\SistemaOdontológico.exe
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\bin\Debug\SistemaOdontológico.pdb
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdonto.csprojAssemblyReference.cache
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdontológico.Form1.resources
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdontológico.Properties.Resources.resources
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdonto.csproj.GenerateResource.cache
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdonto.csproj.CoreCompileInputs.cache
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdontológico.exe
+E:\C#\Projetos\SistemaOdontológico\SistemaOdontológico\obj\Debug\SistemaOdontológico.pdb
