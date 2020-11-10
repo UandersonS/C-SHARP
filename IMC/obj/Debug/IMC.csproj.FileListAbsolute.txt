@@ -1,0 +1,10 @@
+E:\C#\Projetos\IMC\bin\Debug\IMC.exe.config
+E:\C#\Projetos\IMC\bin\Debug\IMC.exe
+E:\C#\Projetos\IMC\bin\Debug\IMC.pdb
+E:\C#\Projetos\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+E:\C#\Projetos\IMC\obj\Debug\IMC.Form1.resources
+E:\C#\Projetos\IMC\obj\Debug\IMC.Properties.Resources.resources
+E:\C#\Projetos\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+E:\C#\Projetos\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+E:\C#\Projetos\IMC\obj\Debug\IMC.exe
+E:\C#\Projetos\IMC\obj\Debug\IMC.pdb
